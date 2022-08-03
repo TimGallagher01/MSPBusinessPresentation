@@ -1,39 +1,55 @@
-Project Prep #1
+**Project Prep #1
+
 Names: Tim Gallagher & Shila Williams
 Cooperation Plan
 
 <b>Describe at least:</b>
-<P>What are the key strengths of each person on the team?</p> 
+<p>What are the key strengths of each person on the team?</p> 
 
 * Tim has a background in Personal Finance. Shila has a background in Social Work.
 <P>How can you best utilize these strengths in the execution of your project?</p>
 
 * Both team members possesses great communication. Shila also has the ablity to empathize with the customer. While Tim brings the ablity to see the bigger picture.
-In which professional competencies do you each want to develop greater strength?Tim- wants the ablity to write and understand code better. Shila would like to grasp the understanding of social engineering.
+
+<b>In which professional competencies do you each want to develop greater strength?</b>
+* Tim- wants the ablity to write and understand code better. Shila would like to grasp the understanding of social engineering.
 Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?Communicate with each other and take things step by step.
 
 <b>Conflict Plan</b>
 Your team should agree on a process for handing disagreements, should they arise. It is better to have a plan in place ahead of time so you can all refer back to it when necessary.
 
-Describe at least:
+<b>What will be your group’s process to resolve conflict, when it arises? </b>
+* Commmunication is key. When a issue arise each group member will voice their opinion and come to a resolution that best suits the project.
 
-What will be your group’s process to resolve conflict, when it arises? 
-Commmunication is key. When a issue arise each group member will voice their opinion and come to a resolution that best suits the project.
-What will your team do if one person is taking over the project and not letting the other members contribute? Due to the fact that our team consist of two member it is very important to us to divide work evenly as well as showcase each other skills.
-How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level? It is important for us to work together and educate each other when someone does not understand a topic.
-How will you raise concerns to members who are not adequately contributing?
-How and when will you escalate the conflict if your resolution attempts are unsuccessful? IF resoultion attempts are unsucessful teammember will escalate the conflict to instructor.
+<b>What will your team do if one person is taking over the project and not letting the other members contribute?</b>
+* Due to the fact that our team consist of two member it is very important to us to divide work evenly as well as showcase each other skills.
 
-Communication Plan
+<b>How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?</b>
+ * It is important for us to work together and educate each other when someone does not understand a topic.
+
+<b>How will you raise concerns to members who are not adequately contributing?</b>
+* If team member do not adequately contribute the team will address that team member to see what they are struggle with. 
+
+<b>How and when will you escalate the conflict if your resolution attempts are unsuccessful?</b>
+* If resoultion attempts are unsucessful teammember will escalate the conflict to instructor.
+
+<b>Communication Plan</b>
 Before beginning to tackle the project, determine how your group will communicate with each other. This is not an individual effort. Make sure everyone feels comfortable with the identified methods of speaking up.
 
-Describe at least:
+<b>What hours will you be available to communicate?</b>
+* Normal class hour & as needed
 
-What hours will you be available to communicate?Normal class hour & as needed
-What platforms will you use to communicate (ie. Slack, phone …)?Slack
-How often will you take breaks?
-What is your plan if you start to fall behind?If things fall behind we will work additionally on weekends
-How will you communicate after hours and on the weekend?Slack
+<b>What platforms will you use to communicate (ie. Slack, phone …)?</b>
+* Slack
+
+<b>How often will you take breaks?</b>
+* Answer Me
+
+<b>What is your plan if you start to fall behind?</b>
+* If things fall behind we will work additionally on weekends
+
+<b>How will you communicate after hours and on the weekend?</b>
+ * Slack
 What is your strategy for ensuring everyone’s voice is heard? Ask question and do check-ins with everyone to make sure we are all feeling valuable.
 How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up? No disrepect and negative speaking towards each other.
 
