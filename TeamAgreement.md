@@ -1,3 +1,5 @@
+Project Prep #1
+
 Group Project: Team Agreement
 The first step in project planning is establishing a Team Agreement. This will be used as the guideline for how your team will collaborate during project week.
 
