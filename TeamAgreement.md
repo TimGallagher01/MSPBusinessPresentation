@@ -1,20 +1,6 @@
 Project Prep #1
 
-Group Project: Team Agreement
-The first step in project planning is establishing a Team Agreement. This will be used as the guideline for how your team will collaborate during project week.
-
-Projects are stressful, and can ignite emotions that otherwise wouldn’t be a problem. It’s important that the safety and security of the group comes first, and that an agreement is in place to establish expectations and accountability among the whole group.
-
-Planning
-Schedule a 1-hour meeting for your entire project team.
-
-Use this time to review the Team Agreement requirements below, and establish consensus on how to handle each requirement.
-
-Deliverable
-Start a public-facing GitHub markdown file, and include the following components in your team agreement submission.
-
 Cooperation Plan
-Every person on your team is an asset. This is your chance to discover the hidden strengths and areas for growth for each team member.
 
 Describe at least:
 
