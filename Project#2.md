@@ -13,7 +13,7 @@
 
 <p>Ubuntu Linux Desktop 20.10 with VS Code and Thunderbird</p>
 
-<p>Other options to conisder</p>
+<b>Other options to conisder</b>
 <b>Windows toolkits:</b> 
 <p>Windows Autopilot, (reset, repurpose and refurbish devices)</p>
 <p>Microsoft Deployment Toolkit, (automating windows and windows server operating system deployment, set up bench have it grab collection of files)</p>
@@ -33,6 +33,13 @@
 
 
 <b>Create a high-level list of systems, platforms, or tools you’ve decided to work with this project. For each, explain:</b>
+<p> We will be working with Standardize virtual desktops to Windows 10 pro with with microsoft outlook, onedrive, and Windows Autopilot. Ubuntu Linux Desktop 20.10 with VS Code, Thunderbird and Spacewalk. </p>
+ 
+ OS Privisioning
+ 
+ VirtualBox to deploy Windows 10 VM and then Windows Autopilot to configure the Outlook and Onedrive
+ 
+ 
 <p></p>
 <p>How does it fit into your scenario’s requirements?</p>
 <p></p>
