@@ -82,13 +82,14 @@ Be positive, no matter how tired or burned out you may feel … “Your smiles c
 
 <b>What components of your project will live on GitHub?</b>
 * Code, SLideshow, and Cooperation Plan
-<b>How will you share the repository with your teammates?<b>
+<b>How will you share the repository with your teammates?</b>
 * GitHub invitation
 <b>What is your Git flow?</b>
   <b>Will you be using a PR review workflow?</b>
 * If so, consider:Will be working together at the same time so there is no need for PR.
 
   <b>Submitting Your Work</b>
+  
 * This is a group submission. Only one person must submit for group credit.
 
 * Please have everyone’s name at the top of the doc.
