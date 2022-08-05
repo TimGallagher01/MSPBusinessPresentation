@@ -80,12 +80,13 @@ Be positive, no matter how tired or burned out you may feel … “Your smiles c
 
 <b>Describe at least:</b>
 
-<b>What components of your project will live on GitHub?</b>
+<p><b>What components of your project will live on GitHub?</b></p>
 * Code, SLideshow, and Cooperation Plan
-<b>How will you share the repository with your teammates?</b>
+<p><b>How will you share the repository with your teammates?</b></p>
 * GitHub invitation
-<b>What is your Git flow?</b>
-  <p><b>Will you be using a PR review workflow?</b></p>
+<p><b>What is your Git flow?</b></p>
+* Work on it everyday during class hours together
+<p><b>Will you be using a PR review workflow?</b></p>
 * If so, consider:Will be working together at the same time so there is no need for PR.
 
   <p><b>Submitting Your Work</b></p>
