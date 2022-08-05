@@ -53,47 +53,46 @@ Before beginning to tackle the project, determine how your group will communicat
 What is your strategy for ensuring everyone’s voice is heard? Ask question and do check-ins with everyone to make sure we are all feeling valuable.
 How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up? No disrepect and negative speaking towards each other.
 
-Work Plan
-Explain your work plan to track whether everyone is contributing equally to all parts of the project, and that each person is working on “meaty” problems. This should prevent “lone wolf” efforts and “siloed” efforts. It is important for us that everyone does there part. We plan to divide work evenly.
+<b>Work Plan</b>
+* Explain your work plan to track whether everyone is contributing equally to all parts of the project, and that each person is working on “meaty” problems. This should prevent “lone wolf” efforts and “siloed” efforts. It is important for us that everyone does there part. We plan to divide work evenly.
 
-NOTE: While researching and experimentation is always encouraged, writing and/or committing code to the project on your own during non-working hours or over the weekend is never acceptable. This puts the entire project at risk. Be explicit in calling out your work hours and the distribution of tasks.
+* NOTE: While researching and experimentation is always encouraged, writing and/or committing code to the project on your own during non-working hours or over the weekend is never acceptable. This puts the entire project at risk. Be explicit in calling out your work hours and the distribution of tasks.
 
-Describe at least:
+<b>Describe at least:</b>
 
-How you will identify tasks, assign tasks, know when they are complete, and manage work in general?We plan to due task together and come to an agreement.
+* How you will identify tasks, assign tasks, know when they are complete, and manage work in general?We plan to due task together and come to an agreement.
 What project management tool will be used? Zoom, Slack and GitHub
 
 
-Link to the shared doc in your project plan.
+* Link to the shared doc in your project plan.
 
-Schedule your practice session
+<b>Schedule your practice session</b>
 Work with your instructor to pre-schedule an date and time for your “practice run” of your presentation. This should either be an exact time, or a short window of time designated by your instructor. Plan for a 30-45 minute meeting during the class session before your actual presentation to allow time for both your practice run and feedback from the instructional team. Pratice run will be held on August 10th during normal class hours.
 
-Reminder as you work on and practice your presentations:
+* Reminder as you work on and practice your presentations:
 
-Expressions of gratitude should be heartfelt.
+<p>Expressions of gratitude should be heartfelt.
 When not presenting, team members should make strong eye contact with the “audience” / camera.
-Be positive, no matter how tired or burned out you may feel … “Your smiles can be heard over the phone”
+Be positive, no matter how tired or burned out you may feel … “Your smiles can be heard over the phone”</p>
 
-Git Process
-Plan out what your team’s Git workflow looks like for coding tasks.
+<b>Git Process</b>
+* Plan out what your team’s Git workflow looks like for coding tasks.
 
-Describe at least:
+<b>Describe at least:</b>
 
-What components of your project will live on GitHub? Code, SLideshow, and Cooperation Plan
-How will you share the repository with your teammates?GitHub invitation
-What is your Git flow?
-Will you be using a PR review workflow? If so, consider:Will be working together at the same time so there is no need for PR.
-How many people must review a PR?N/A
-Who merges PRs?N/A
-How often will you merge?N/A
-How will you communicate that it’s time to merge?N/A
+<b>What components of your project will live on GitHub?</b>
+* Code, SLideshow, and Cooperation Plan
+<b>How will you share the repository with your teammates?<b>
+* GitHub invitation
+<b>What is your Git flow?</b>
+  <b>Will you be using a PR review workflow?</b>
+* If so, consider:Will be working together at the same time so there is no need for PR.
 
-Submitting Your Work
-This is a group submission. Only one person must submit for group credit.
+  <b>Submitting Your Work</b>
+* This is a group submission. Only one person must submit for group credit.
 
-Please have everyone’s name at the top of the doc.
+* Please have everyone’s name at the top of the doc.
 
-Submit a link to your the GitHub markdown file where you have created your Team Agreement.
+* Submit a link to your the GitHub markdown file where you have created your Team Agreement.
 
-This step must be completed and approved before proceeding with any project work. Notify your instructor when this is ready for review.
+* This step must be completed and approved before proceeding with any project work. Notify your instructor when this is ready for review.
