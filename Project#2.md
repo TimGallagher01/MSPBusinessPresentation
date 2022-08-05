@@ -1,3 +1,4 @@
+<p>Tim Gallagher and Shila Williams</p>
 <b>Prepare for Projects: Systems Selection Document</b>
 <p>This project will require you to demonstrate skills you’ve learned so far in the course.</p>
 
