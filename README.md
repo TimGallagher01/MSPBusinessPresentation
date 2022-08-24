@@ -6,4 +6,3 @@ Shila Williams and Tim Gallagher are a made up cyber security business pitching 
 
 MSP Business will provide services to a sales company. Providing the Windows 10 OS virtual machines for sales and Linux Ubuntu desktop systems for software engineers. We will design the network infrastructure and provide on going support to the business.
 
-See Team Agreement
